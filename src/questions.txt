@@ -1,0 +1,14 @@
+1. How did you structure the app based on the requirements?
+A.firstly i structure src folder and taken the resource from video-list and then added components folder along with App.js and App.css filesthe resource were maintained in the App.js file and added 3 main  folders(primevideo, movieslider,movieItem) to Component folder to have different functionalities 
+
+2.Did you use any library’s and why did you choose to use them?
+A.yes i used library's file to have functionality,i have taken them based upon the priority level,the main library's used for this development are video-player to display a video ,react-slick to have a carousel impact,react-popup to display video content 
+
+3.How long did it take you to complete the project?
+A.nearly 3.45mins have taken for me to build this, apart from that, due to internet issue ,some more time has been taken for me to build this application to had naturally in the content i had taken some resource from the google
+
+4.Are there any limitations to your solution, what might cause it to fail in a real-world application?
+A.due to internet issue and time i unable to addded tags,properly in the project apart from that every thing was aligned properly and with clean 
+
+5.How would you improve it if you had more time?
+A.i will add more functionally to the application.i definitely do it more better thanks for giving me this opportunity
